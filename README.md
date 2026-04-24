@@ -37,7 +37,7 @@ To view the app in the browser, run `bundle exec middleman` to start a server at
 
 2. run `npm run run:ios`.
 
-#### Running app in Android simulator (Android studio, JDK 8, and Gradle 6 required)
+#### Running app in Android simulator (Android studio, JDK 17, and Gradle 8.13 required)
 
 <sup>For more information, see: https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html#requirements-and-support</sup>
 
