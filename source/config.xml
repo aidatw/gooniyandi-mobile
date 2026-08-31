@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget version="1.0.7" android-packageName="org.jila.vanilla"
+<widget version="1.0.9" android-packageName="org.jila.vanilla"
     ios-CFBundleIdentifier="org.jila.gooniyandi"
     ios-CFBundleShortVersionString="1.0.5"
     ios-CFBundleVersion="5"
@@ -38,10 +38,10 @@
         <icon src="assets/android/xhdpi.png" density="xhdpi" />
         <icon src="assets/android/xxhdpi.png" density="xxhdpi" />
         <icon src="assets/android/xxxhdpi.png" density="xxxhdpi" />
-        <preference name="android-targetSdkVersion" value="35" />
-        <preference name="android-compileSdkVersion" value="35" />
+        <preference name="android-targetSdkVersion" value="36" />
+        <preference name="android-compileSdkVersion" value="36" />
         <preference name="android-minSdkVersion" value="24" />
-        <preference name="android-buildToolsVersion" value="35.0.0" />
+        <preference name="android-buildToolsVersion" value="36.0.0" />
         <preference name="android-useAndroidX" value="true" />
         <preference name="android-enableJetifier" value="true" />
     </platform>
